@@ -1,0 +1,13 @@
+.app {
+  background-color: #f3f2ef;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1,
+p {
+  font-family: Lato;
+}
+.app__body {
+  display: flex;
+}
